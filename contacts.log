@@ -1,0 +1,61 @@
+21:07:18,047 ERROR UserDaoOperation,main:122 - Something went wrong, please try again! No operations allowed after connection closed.
+10:39:38,019 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:40:11,599 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:41:18,622 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:41:27,245 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! No operations allowed after connection closed.
+10:43:07,948 ERROR UserDaoOperation,main:91 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:43:16,669 ERROR UserDaoOperation,main:91 - Something went wrong, please try again! No operations allowed after connection closed.
+10:44:22,270 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:44:42,785 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:46:14,075 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:46:20,477 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! No operations allowed after connection closed.
+10:49:15,166 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:49:33,651 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:51:05,696 ERROR UserDaoOperation,main:89 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:53:02,237 ERROR UserDaoOperation,main:90 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:54:17,103 ERROR UserDaoOperation,main:130 - Parameter index out of range (1 > number of parameters, which is 0).
+10:56:48,634 ERROR UserDaoOperation,main:90 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+10:57:07,772 ERROR UserDaoOperation,main:90 - Something went wrong, please try again! Parameter index out of range (0 < 1 ).
+10:59:32,343 ERROR UserDaoOperation,main:90 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+11:29:08,034 ERROR UserDaoOperation,main:90 - Something went wrong, please try again! Parameter index out of range (1 > number of parameters, which is 0).
+11:36:27,446 ERROR UserDaoOperation,main:130 - No operations allowed after connection closed.
+11:42:46,040 ERROR UserDaoOperation,main:131 - No operations allowed after connection closed.
+11:47:30,095 ERROR UserDaoOperation,main:131 - No operations allowed after connection closed.
+12:18:42,109 ERROR UserDaoOperation,main:132 - No operations allowed after connection closed.
+12:29:08,966 ERROR UserDaoOperation,main:132 - No operations allowed after connection closed.
+12:31:09,166 ERROR UserDaoOperation,main:133 - No operations allowed after connection closed.
+12:33:48,988 ERROR UserDaoOperation,main:133 - No operations allowed after connection closed.
+12:37:32,493 ERROR UserDaoOperation,main:133 - No operations allowed after connection closed.
+12:39:45,465 ERROR UserDaoOperation,main:133 - No operations allowed after connection closed.
+13:00:31,167 ERROR AdminDaoOperation,main:304 - 107 not found
+13:20:54,641 ERROR AdminDaoOperation,main:400 - No operations allowed after connection closed.
+13:21:37,989 ERROR AdminDaoOperation,main:345 - No operations allowed after connection closed.
+13:21:48,414 ERROR AdminDaoOperation,main:345 - No operations allowed after connection closed.
+13:22:01,462 ERROR AdminDaoOperation,main:345 - No operations allowed after connection closed.
+14:16:50,566 ERROR AdminDaoOperation,main:345 - No operations allowed after connection closed.
+14:17:06,236 ERROR AdminDaoOperation,main:122 - No operations allowed after connection closed.
+14:17:12,736 ERROR AdminDaoOperation,main:345 - No operations allowed after connection closed.
+14:17:18,387 ERROR AdminDaoOperation,main:122 - No operations allowed after connection closed.
+19:31:40,405 ERROR UserDaoOperation,main:90 - Something went wrong, please try again! Illegal operation on empty result set.
+19:33:15,996 ERROR UserDaoOperation,main:90 - Something went wrong, please try again! Illegal operation on empty result set.
+19:46:36,932 ERROR UserDaoOperation,main:88 - Something went wrong, please try again! Column Index out of range, 0 < 1.
+11:14:10,411 ERROR AdminDaoOperation,main:159 - No operations allowed after connection closed.
+11:14:24,136 ERROR AdminDaoOperation,main:159 - No operations allowed after connection closed.
+11:14:42,995 ERROR AdminDaoOperation,main:384 - No operations allowed after connection closed.
+11:14:43,000 ERROR AdminDaoOperation,main:345 - No operations allowed after connection closed.
+11:15:12,597 ERROR AdminDaoOperation,main:312 - No operations allowed after connection closed.
+11:16:19,251 ERROR AdminDaoOperation,main:227 - No operations allowed after connection closed.
+11:16:19,252 ERROR AdminDaoOperation,main:252 - userId: p105 is already in use.
+11:16:57,884 ERROR AdminDaoOperation,main:227 - No operations allowed after connection closed.
+11:16:57,893 ERROR AdminDaoOperation,main:252 - userId: p110 is already in use.
+11:32:43,879 ERROR UserDaoOperation,main:137 - Unknown column 'GradeConstant' in 'field list'
+11:33:25,346 ERROR UserDaoOperation,main:137 - Unknown column 'GradeConstant' in 'field list'
+11:35:42,926 ERROR AdminDaoOperation,main:159 - No operations allowed after connection closed.
+11:35:51,723 ERROR AdminDaoOperation,main:159 - No operations allowed after connection closed.
+11:37:09,183 ERROR AdminDaoOperation,main:400 - No operations allowed after connection closed.
+11:39:11,451 ERROR AdminDaoOperation,main:400 - No operations allowed after connection closed.
+11:40:39,167 ERROR UserDaoOperation,main:137 - Unknown column 'GradeConstant' in 'field list'
+11:47:01,701 ERROR AdminDaoOperation,main:400 - No operations allowed after connection closed.
+14:16:44,876 ERROR AdminDaoOperation,main:345 - No operations allowed after connection closed.
+14:17:13,937 ERROR AdminDaoOperation,main:345 - No operations allowed after connection closed.
+14:23:52,516 ERROR AdminDaoOperation,main:400 - No operations allowed after connection closed.
